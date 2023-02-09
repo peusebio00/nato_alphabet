@@ -1,6 +1,6 @@
 # nato_alphabet
 O
-Small project made using the Pandas library within Python to analyse a CSV file with the NATO alphabet in it - organised by letter (Standard Roman ALphabet letters) and their respective code within the NATO Alphabet (Alpha, Beta, Charlie, etc)
+Small project made using the Pandas library within Python to analyse a CSV file with the NATO alphabet in it - organised by letter (Standard Roman Alphabet letters) and their respective code within the NATO Alphabet (Alpha, Beta, Charlie, etc)
 
 CSV file read using Pandas, then transformed to DataFrame, then rows iterated to create a new dictionary (phonetic_dict) in which the key == letters and value == NATO code
 
